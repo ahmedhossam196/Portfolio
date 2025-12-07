@@ -2,7 +2,7 @@ import React from "react";
 import Frontend from "../../assets/Certificates/Frontend.png";
 import Python from "../../assets/Certificates/Python.png";
 import Fund from "../../assets/Certificates/Fundemintals.png";
-import ES from "../../assets/Certificates/ES.png";
+import ES from "../../assets/Certificates/Es.png";
 
 const certificatesData = [
 {

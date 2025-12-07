@@ -9,7 +9,7 @@ import Gerold from "../../assets/Projects/Gerold.png";
 import Mealify from "../../assets/Projects/Mealify.png";
 import LoginSystem from "../../assets/Projects/LoginSystem.png";
 import SocialApp from "../../assets/Projects/SocialApp.png";
-import StartFrameWork from "../../assets/Projects/StartFrameWork.png";
+import StartFrameWork from "../../assets/Projects/StartFramework.png";
 
 const projectsData = [
 { id: 1, title: "E-Commerce", img: FreshCart, description: "A simple e-commerce web app where users can browse products, add to cart, save favorites, and complete a fast, secure checkout.", Github:"[https://github.com/ahmedhossam196/E-commerce.git](https://github.com/ahmedhossam196/E-commerce.git)" },

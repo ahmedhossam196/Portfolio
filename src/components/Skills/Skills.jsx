@@ -6,7 +6,7 @@ import reactImage from "../../assets/react.png";
 import nextjs from "../../assets/nextjs.png";
 import github from "../../assets/github.png";
 import tailwind from "../../assets/tailwind.png";
-import Bootstrap from "../../assets/BootStrap.png";
+import Bootstrap from "../../assets/Bootstrap.png";
 import cplus from "../../assets/cplus.png";
 import c from "../../assets/c.png";
 import java from "../../assets/java.png";
