@@ -4,6 +4,7 @@ import devAnimation from "../../ReactBitsComponents/Darker/Darker.json";
 import { useRef, useEffect } from "react";
 import { motion } from "framer-motion";
 import RotatingText from '../../ReactBitsComponents/RotatingText/RotatingText';
+import cv from "../../../public/Ahmed-Hossam-CV.pdf"
 import { FaGithub, FaLinkedin, FaInstagram, FaWhatsapp, FaEnvelope } from 'react-icons/fa';
 import AOS from "aos";
 import "aos/dist/aos.css";
@@ -64,7 +65,7 @@ export default function Home() {
               <a href="mailto:ahmedhossam2874@gmail.com" target="_blank" rel="noopener noreferrer"><FaEnvelope className={socialLinkClasses} /></a>
             </div>
 
-            <a href="../../../public/Ahmed Hossam (CV).pdf" download className="bg-linear-to-r from-[#6366f1] to-[#a855f7] text-white font-semibold px-6 py-3 rounded-xl hover:opacity-90 transition-all duration-300 shadow-md hover:shadow-[#a855f7]/40">
+            <a href="../../../public/Ahmed-Hossam-CV.pdf"  download className="bg-linear-to-r from-[#6366f1] to-[#a855f7] text-white font-semibold px-6 py-3 rounded-xl hover:opacity-90 transition-all duration-300 shadow-md hover:shadow-[#a855f7]/40">
               Download CV
             </a>
           </div>
