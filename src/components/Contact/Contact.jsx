@@ -4,7 +4,7 @@ import { Sparkles, Mail, Phone } from "lucide-react";
 const Contact = () => {
 return ( <div
    name="contact"
-   className="w-full min-h-screen text-white py-20"
+   className="w-full min-h-screen text-white "
  > <div className="max-w-5xl mx-auto flex flex-col justify-center w-full h-full px-4">
 
     {/* Title */}
