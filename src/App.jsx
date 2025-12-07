@@ -4,7 +4,7 @@ import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Skills from "./components/Skills/Skills";
 import Home from "./components/Home/Home";
-import NavBar from "./components/NavBar/Navbar";
+import NavBar from "./components/Navbar/Navbar";
 import Portfolio from "./components/Portfolio/Portfolio";
 import SocialLinks from "./components/SocialLinks/SocialLinks";
 import DarkVeil from "./ReactBitsComponents/LightRays/LightRays";
