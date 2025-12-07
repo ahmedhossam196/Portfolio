@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import ProfileCard from "../../ReactBitsComponents/ProfileCard/ProfileCard";
 import { Sparkles, FileText, Code } from "lucide-react";
 import HossImg from "../../assets/smile.png";
-
+// import cv from "../../../public/Ahmed-Hossam-CV.pdf"
 export default function About() {
   return (
     <section
@@ -109,8 +109,9 @@ export default function About() {
           {/* Buttons */}
           <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
             <a
-              href="../../../public/Ahmed-Hossam-CV.pdf"
-              download={true}
+              href= "https://drive.google.com/file/d/1OeSX5tWJenM7I9mzrYWOENBkG2aLKLmY/view?usp=sharing"
+              target="_blank" 
+              rel="noopener noreferrer"
               className="w-full lg:w-auto"
             >
               <button
