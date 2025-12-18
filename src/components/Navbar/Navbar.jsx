@@ -28,7 +28,6 @@ return ( <nav className="fixed top-0 left-0 w-full h-20 flex items-center px-6 z
      >
 Ahmed Hossam </h1> </div>
 
-```
   {/* Desktop Links */}
   <ul className="hidden md:flex flex-1 justify-center gap-4">
     {links.slice(0, -1).map(({ id, label }) => (

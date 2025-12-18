@@ -19,11 +19,11 @@ if (lottieRef.current) lottieRef.current.setSpeed(0.5);
 }, []);
 
 const socialLinks = [
-{ icon: FaGithub, url: "[https://github.com/ahmedhossam196](https://github.com/ahmedhossam196)" },
-{ icon: FaLinkedin, url: "[https://www.linkedin.com/in/ahmedhossam28/](https://www.linkedin.com/in/ahmedhossam28/)" },
-{ icon: FaWhatsapp, url: "[https://wa.me/201154346699](https://wa.me/201154346699)" },
-{ icon: FaInstagram, url: "[https://www.instagram.com/ahmed_hossaam74](https://www.instagram.com/ahmed_hossaam74)" },
-{ icon: FaEnvelope, url: "mailto:ahmedhossam2874@gmail.com" },
+{ icon: FaGithub, url: "https://github.com/ahmedhossam196"},
+{ icon: FaLinkedin, url: "https://www.linkedin.com/in/ahmedhossam28/"},
+{ icon: FaWhatsapp, url: "https://wa.me/201154346699"},
+{ icon: FaInstagram, url: "https://www.instagram.com/ahmed_hossaam74"},
+{ icon: FaEnvelope, url: "mailto:ahmedhossam2874@gmail.com"},
 ];
 
 return ( <section
