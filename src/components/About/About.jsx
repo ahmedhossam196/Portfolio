@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import ProfileCard from "../../ReactBitsComponents/ProfileCard/ProfileCard";
 import { Sparkles, FileText, Code } from "lucide-react";
-import HossImg from "../../assets/smile.png";
+import HossImg from "../../assets/Badla2.png";
 // import cv from "../../../public/Ahmed-Hossam-CV.pdf"
 export default function About() {
   return (

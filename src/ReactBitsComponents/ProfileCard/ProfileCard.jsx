@@ -1,6 +1,6 @@
 import React, { useEffect, useRef, useCallback, useMemo } from 'react';
 import './ProfileCard.module.css';
-import HossImg from "../../assets/nnnn.png";
+// import HossImg from "../../assets/nnnn.png";
 import grain from '../../assets/grain.jpg';
 import iicon from '../../assets/icon.png';
 
