@@ -2,7 +2,6 @@ import React from "react";
 import { FaGithub, FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-// import cv from "../../../public/Ahmed-Hossam-CV.pdf"
 const SocialLinks = () => {
   const links = [
     {
@@ -40,7 +39,7 @@ const SocialLinks = () => {
           CV <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1OeSX5tWJenM7I9mzrYWOENBkG2aLKLmY/view?usp=sharing",
+      href: "https://drive.google.com/file/d/1mgobVn725IN6CfZ3SI3Psbxr5beeu7BV/view?usp=sharing",
       style: "rounded-br-md",
     },
   ];
