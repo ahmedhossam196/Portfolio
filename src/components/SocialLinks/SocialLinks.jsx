@@ -39,7 +39,7 @@ const SocialLinks = () => {
           CV <BsFillPersonLinesFill size={30} />
         </>
       ),
-      href: "https://drive.google.com/file/d/1mgobVn725IN6CfZ3SI3Psbxr5beeu7BV/view?usp=sharing",
+      href: "https://drive.google.com/file/d/18A5bJ3fqBWEHiy5n7Z9zZ5pW3Ko5wTTi/view?usp=drive_link",
       style: "rounded-br-md",
     },
   ];
