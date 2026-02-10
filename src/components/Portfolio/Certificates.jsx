@@ -3,6 +3,8 @@ import Frontend from "../../assets/Certificates/Frontend.png";
 import Python from "../../assets/Certificates/Python.png";
 import Fund from "../../assets/Certificates/Fundemintals.png";
 import ES from "../../assets/Certificates/Es.png";
+import Tech from "../../assets/Certificates/Tech.jpeg";
+
 
 const certificatesData = [
 {
@@ -11,24 +13,35 @@ title: "Frontend Development Diploma",
 img: Frontend,
 description: "A certificate demonstrating completion of the Frontend Development Diploma, validating skills in HTML, CSS, JavaScript, and responsive web design.",
 },
+
 {
 id: 2,
 title: "Crash Course on Python",
 img: Python,
 description: "A certificate showcasing completion of a Python crash course, validating skills in programming basics, problem solving, and scripting.",
 },
+
 {
 id: 3,
 title: "Fundamentals of Programming",
 img: Fund,
 description: "A certificate demonstrating completion of programming fundamentals, validating knowledge in algorithms, logic, and coding practices.",
 },
+
 {
-id: 4,
+  id: 4,
+  title: "Frontend Development Internship",
+  img: Tech,
+  description: "Certificate of completing a frontend development internship, building responsive user interfaces using React and modern web technologies.",
+},
+
+{
+id: 5,
 title: "Standard Embedded Systems Diploma",
 img: ES,
 description: "A certificate demonstrating completion of the Embedded Systems Diploma, validating skills in microcontrollers, hardware interfacing, and programming.",
 },
+
 ];
 
 const Certificates = () => {
