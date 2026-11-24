@@ -109,7 +109,7 @@ export default function About() {
           {/* Buttons */}
           <div className="flex flex-col lg:flex-row items-center lg:items-start gap-4 lg:gap-4 lg:px-0 w-full">
             <a
-              href= "https://drive.google.com/file/d/1YrXxqQHp4yXb89kKl2iG9E6rufVSdCzz/view?usp=sharing"
+              href= "https://drive.google.com/file/d/1NMg3Gh-oOEha-7qfQR9-BOH_T98xjS4M/view?usp=sharing"
               target="_blank" 
               rel="noopener noreferrer"
               className="w-full lg:w-auto"
